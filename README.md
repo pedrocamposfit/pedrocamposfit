@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pedrocamposfit
 - 💼  Back-end Developer at FitBank 450
 - 👀 Tenho interesse na area de Back-end,Analise de Requisitos,Data Science, UX,Front-end, Desenvolvimento de Bots.
-- 🌱 Estudando JavaScript,Python, React,C#, SQL-Serve.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Estudando JavaScript,Python, React,C#, SQL-Server.
+- 💞️ Procuro colabora com ideias inovadoras , que possam melhora a sociedade que que vivemos
 - 📫 How to reach me ...
 - 
 
